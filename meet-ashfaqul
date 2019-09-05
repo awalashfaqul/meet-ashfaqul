@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="description" content="Practicing coding in HTML5">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Meet Ashfaqul</title>
+</head>
+<body>
+<h1>
+  Ashfaqul Awal Shajal
+  </h1>
+  <img alt="A photo of Ashfaqul" width=150
+       src="https://scontent.farn1-1.fna.fbcdn.net/v/t1.0-9/65201142_10157413237421810_4637642021920571392_n.jpg?_nc_cat=101&_nc_oc=AQm4qrzPAKpV6uL0ETAIOun6f-mr_0O2cmAZ-ermkyjMziiOytJXYQbtEV1u0PQWa8Y&_nc_ht=scontent.farn1-1.fna&oh=d0a144a3f01fd75d2c85446750036782&oe=5DE6AE2A"/>
+  <p>Hello everyone, 
+    <br>This is Ashfaqul Awal. You can call me Shajal as it is my nick name. I would like share somethign very important which I have learnt from life. Life says, "Learn to enjoy little things in life, one day you will realize how big those were."
+  </p>
+<h2>
+  My hobbies are:
+  </h2>
+  <ol>
+    <li> Singing </li>
+    <li> Writing </li>
+    <li> Reading </li>
+  </ol>
+  <p>
+    If you are interested to know more about me, you can at <a href="https://www.linkedin.com/in/ashfaqul-awal-6a613522/">@AshfaqulAwal</a> 
+  </p>
+  
+
+</body>
+</html>
